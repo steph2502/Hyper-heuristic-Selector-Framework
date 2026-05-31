@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from "react";
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE =  "https://hyper-heuristic-selector-framework1.vercel.app";
 
 const SIDEBAR_ITEMS = [
   { id: "dashboard", label: "Dashboard" },
